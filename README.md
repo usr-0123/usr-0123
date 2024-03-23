@@ -15,7 +15,7 @@ Currently, I'm diving deeper into the world of microservices architecture and ex
 ### Get in Touch 📫
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/lewis-k-89bbba294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Visit my portfolio website: [LinkedIn.com](https://www.linkedin.com/in/lewis-k-89bbba294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Drop me an email at [youremail@example.com](mailto:fixedzone365@example.com)
+- 📧 Drop me an email at [info@kipngetich.ac.ke](mailto:fixedzone365@example.com)
 <!-- - 🐦 Follow me on Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 
 ### Fun Fact 🎉
