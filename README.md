@@ -16,12 +16,22 @@ Currently, I'm diving deeper into the world of microservices architecture and ex
 
 ### Get in Touch 📫
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/lewis-k-89bbba294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Visit my portfolio website: [LinkedIn.com](https://www.linkedin.com/in/lewis-k-89bbba294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Drop me an email at [info@kipngetich.co.ke](mailto:fixedzone365@example.com)
-<!-- - 🐦 Follow me on Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 
-### Fun Fact 🎉
-When I'm not coding, you can find me exploring the great outdoors, experimenting with new recipes in the kitchen, or lost in a good book.
+- 🌐 Visit my portfolio website: [LinkedIn.com](https://www.linkedin.com/in/lewis-k-89bbba294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- 📧 Drop me an email at [info@kipngetich.co.ke](mailto:fixedzone365@example.com)
+
+- 🐦 Follow me on Twitter: [X](https://x.com/x_user_0123?t=0tIEWTZimhRwsIba8k32rQ&s=09)
+
+- 📍Checkout my pins [Pinterest](https://pin.it/5qVkjxPLH) 
+
+- 🗳️ Connect with me on Discord
+[Discord](https://discord.com/invite/gTfNXazz)
+Join the discord server below
+[Software development server](https://discord.com/invite/kvHbrWjc) 
+
+### Fun Fact 🎉 
+When I'm not coding, you can find me exploring the great outdoors, experimenting with new recipes in the kitchen. 
 
 ### Let's Collaborate! 👩‍💻👨‍💻
 I'm always open to new opportunities, collaborations, and exciting projects. Feel free to reach out if you have any ideas or just want to chat about tech!
