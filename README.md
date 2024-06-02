@@ -6,7 +6,8 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 ###
 
 ### My Tech Stack 💻
-- **Frontend**: React.js, HTML5, CSS3, Sass
+- **Language stack**: JavaScript, Typescript 
+- **Frontend**: React.js, Angular , HTML5, CSS3, Sass
 - **Backend**: Node.js, Express.js
 - **Database**: MySQL, firebase
 - **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Androidstudio, figma, postman, azure, azure DevOps, postman.
