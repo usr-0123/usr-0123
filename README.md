@@ -1,4 +1,4 @@
-👋 Hello, fellow developers! Welcome to my GitHub profile!
+👋 Hello, Welcome to my GitHub profile!
 
 ### About Me ℹ️
 I'm Lewis, a passionate software developer with expertise in JavaScript, particularly in React and Node.js with Express.js. I love crafting efficient and elegant solutions to complex problems and thrive in collaborative environments where innovation is encouraged.
@@ -9,7 +9,7 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 - **Frontend**: React.js, HTML5, CSS3, Sass
 - **Backend**: Node.js, Express.js
 - **Database**: MySQL, firebase
-- **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Androidstudio
+- **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Androidstudio, figma, postman, azure, azure DevOps, postman.
 
 ### What I'm Currently Working On 🚀
 Currently, I'm diving deeper into the world of microservices architecture and exploring the latest advancements in serverless computing. Additionally, I'm always refining my skills in React Hooks and exploring new ways to optimize performance.
