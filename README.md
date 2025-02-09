@@ -17,11 +17,7 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 </picture>
 
 ### My Tech Stack 💻
-- **Language stack**: JavaScript, Typescript 
-- **Frontend**: React.js, Angular , HTML5, CSS3, Sass
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL, firebase
-- **Tools & Technologies**: Git, GitHub, VS Code, npm, Webpack, Androidstudio, figma, postman, azure, azure DevOps, postman.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usr-0123&hide_progress=true)
 
 ### What I'm Currently Working On 🚀
 Currently, I'm diving deeper into the world of microservices architecture and exploring the latest advancements in serverless computing. Additionally, I'm always refining my skills in React Hooks and exploring new ways to optimize performance.
