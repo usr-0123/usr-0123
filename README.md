@@ -3,7 +3,18 @@
 ### About Me ℹ️
 I'm Lewis, a passionate software developer with expertise in JavaScript, particularly in React and Node.js with Express.js. I love crafting efficient and elegant solutions to complex problems and thrive in collaborative environments where innovation is encouraged.
 
-###
+### Statistics
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=usr-0123&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=usr-0123&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=usr-0123&show_icons=true" />
+</picture>
 
 ### My Tech Stack 💻
 - **Language stack**: JavaScript, Typescript 
