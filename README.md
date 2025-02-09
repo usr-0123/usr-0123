@@ -17,7 +17,7 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 </picture>
 
 ### My Tech Stack 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usr-0123&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usr-0123&hide_progress=true&theme=dark)
 
 ### What I'm Currently Working On 🚀
 Currently, I'm diving deeper into the world of microservices architecture and exploring the latest advancements in serverless computing. Additionally, I'm always refining my skills in React Hooks and exploring new ways to optimize performance.
