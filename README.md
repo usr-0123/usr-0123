@@ -3,6 +3,13 @@
 ### About Me ℹ️
 I'm Lewis, a passionate software developer with expertise in JavaScript, particularly in React and Node.js with Express.js. I love crafting efficient and elegant solutions to complex problems and thrive in collaborative environments where innovation is encouraged.
 
+### Tool
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio, angular, arduino, aws, azure, babel, bash, bitbucket, bootstrap, c, cs, cpp, css, cypress, discord, docker, dotnet, express, figma, firebase, git, github, githubactions, html, java, js, md, mongodb, netlify, nextjs, nodejs, npm, pnpm, postman, py, react, redux, sass, stackoverflow, tailwind, terraform, ts, vercel, visualstudio, vite, vscode, yarn" />
+  </a>
+</p>
+
 ### Statistics
 <picture>
   <source
