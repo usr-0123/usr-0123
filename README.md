@@ -6,7 +6,7 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 ### Statistics
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=usr-0123&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=usr-0123&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
