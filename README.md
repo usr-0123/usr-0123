@@ -6,7 +6,7 @@ I'm Lewis, a passionate software developer with expertise in JavaScript, particu
 ### Tool
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,aws,azure,babel,bash,bitbucket,bootstrap,c,cs,cpp,css,cypress,debian,discord,docker,dotnet,express,figma,firebase,git,github,githubactions,html,gradle,graphql,idea,java,jest,js,jquery,kotlin,linux,md,mongodb,mysql,netlify,nextjs,nodejs,npm,php,phpstorm,pnpm,postman,powershell,prisma,pycharm,py,rabbitmq,react,redis,redux,regex,rider,sass,supabase,stackoverflow,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,webpack,webstorm,windows,workers,yarn" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,aws,azure,babel,bash,bitbucket,bootstrap,c,cs,cpp,css,cypress,debian,discord,docker,dotnet,express,figma,firebase,git,github,githubactions,html,gradle,graphql,idea,java,jest,js,jquery,kotlin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,php,phpstorm,pnpm,postman,powershell,prisma,pycharm,py,rabbitmq,react,redis,redux,regex,rider,sass,supabase,stackoverflow,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,webpack,webstorm,windows,workers,yarn" />
   </a>
 </p>
 
